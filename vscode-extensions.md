@@ -1,0 +1,22 @@
+# VS Code Extensions
+
+- coenraads.bracket-pair-colorizer-2
+- aaron-bond.better-comments
+- naumovs.color-highlight
+- ms-azuretools.vscode-docker
+- editorconfig.editorconfig
+- dbaeumer.vscode-eslint
+- eamodio.gitlens
+- graphql.vscode-graphql
+- oderwat.indent-rainbow
+- ms-kubernetes-tools.vscode-kubernetes-tools
+- ms-vsliveshare.vsliveshare
+- christian-kohler.path-intellisense
+- christian-kohler.npm-intellisense
+- zhuangtongfa.material-theme
+- esbenp.prettier-vscode
+- visualstudioexptteam.vscodeintellicode
+- orta.vscode-jest
+- msjsdiag.debugger-for-chrome
+- pkief.material-icon-theme
+- dsznajder.es7-react-js-snippets
